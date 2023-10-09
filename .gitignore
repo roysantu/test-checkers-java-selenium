@@ -1,0 +1,6 @@
+test-output/
+target
+reports/screenshots
+reports/
+logs
+.DS_Store
