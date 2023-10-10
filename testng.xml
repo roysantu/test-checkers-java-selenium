@@ -7,8 +7,6 @@
 	<test thread-count="1" name="Test">
 		<classes>
 			<class name="testSuite.CheckersTest" />
-<!--			<class name="testSuite.GreenCartHomeTest" />-->
-<!--			<class name="testSuite.PopUpHandleTest" />-->
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
